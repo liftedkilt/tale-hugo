@@ -1,3 +1,8 @@
+# Credit
+
+This is a fork of the wonderful Hugo theme Tale, from https://github.com/EmielH/tale-hugo . I have simply modified it slightly for my own personal use. Probably nothing much here for the normal user, so I would recommend using the upstream repo.
+
+
 # Tale
 
 This is a port of the [Tale theme for Jekyll](https://github.com/chesterhow/tale) to Hugo. Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/). I did not design this theme; I only ported it from Jekyll to Hugo.
